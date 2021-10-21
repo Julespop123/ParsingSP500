@@ -10,3 +10,5 @@ Follow these steps to use it on your local repository:
  - Once all the data has downloaded, you can use Updating_stock_prices_SP.py script to update the file. This script is much faster as it does not redownload all the metrics again. Only downloads the new price. 
 
 Enjoy!
+
+Libraries that are used are : OpenPyxl, YFinance, BeautifulSoup, datetime, Pandas, Numpy, Yahoo_Fin.
